@@ -1,0 +1,18 @@
+{
+  "name": "remunance-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "chai": "^4.3.6",
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^4.8.4"
+  }
+}
